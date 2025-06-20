@@ -1,0 +1,24 @@
+site_name: My Docs
+theme:
+  name: "material"
+  palette:
+    scheme: "slate" # тёмная тема
+  features:
+    - navigation.tabs
+    - toc.integrate
+  # font:
+  #   code: "Fira Code, monospace"
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - pymdownx.superfences
+  - pymdownx.emoji
+  - pymdownx.tasklist:
+      custom_checkbox: true
