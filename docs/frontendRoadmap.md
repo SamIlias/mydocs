@@ -34,7 +34,7 @@
 - [x] useState and useEffect hooks
 - [x] Event handling, forms, conditional rendering
 - [x] Lifting state up and prop drilling
-- [ ] Component folder structure (e.g., FSD or other architecture)
+- [x] Component folder structure (e.g., FSD or other architecture)
 
 ## 6. Advanced React
 
