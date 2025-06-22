@@ -64,6 +64,12 @@
 
 ---
 
+## Replacing
+
+1. `: %s/old_text/new_text/g` Replace all occurrences in the current file
+
+---
+
 ## Surround (via [nvim-surround](https://github.com/kylechui/nvim-surround))
 
 - `ys{motion}{char}` — **add** surrounding
